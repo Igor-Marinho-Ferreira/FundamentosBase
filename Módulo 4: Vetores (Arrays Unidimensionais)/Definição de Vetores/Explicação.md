@@ -7,7 +7,6 @@ Vetores, também conhecidos como arrays unidimensionais, são estruturas de dado
 ### Estrutura
 ```php
 $nomes = ["João", "Maria", "José", "Ana"];
-}
 ```
 
 ### Exemplo
