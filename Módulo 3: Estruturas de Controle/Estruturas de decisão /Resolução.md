@@ -1,4 +1,4 @@
-### Exercícios de Estrutura de decisão
+### Resolução dos exercícios de estrutura de decisão
 
 ## if
 
