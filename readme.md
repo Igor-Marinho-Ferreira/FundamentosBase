@@ -28,3 +28,44 @@
 - Laço while
 - Laço for
 - Uso de break e continue
+
+# Módulo 4: Vetores (Arrays Unidimensionais)
+
+## Definição de Vetores
+- O que são vetores
+- Utilidade dos vetores na programação
+
+## Declaração e Inicialização de Vetores
+- Criação de vetores em PHP
+- Inicialização de vetores com valores
+
+## Manipulação de Vetores
+- Acessando elementos de um vetor
+- Adicionando e removendo elementos
+- Funções úteis: count(), array_push(), array_pop(), array_shift(), array_unshift()
+
+## Percorrendo Vetores
+- Uso do laço for para percorrer vetores
+- Uso do laço foreach
+
+# Módulo 5: Matrizes (Arrays Multidimensionais)
+
+## Definição de Matrizes
+- O que são matrizes
+- Utilidade das matrizes na programação
+
+## Declaração e Inicialização de Matrizes
+- Criação de matrizes em PHP
+- Inicialização de matrizes com valores
+
+## Manipulação de Matrizes
+- Acessando elementos de uma matriz
+- Adicionando e removendo elementos em matrizes multidimensionais
+
+## Percorrendo Matrizes
+- Uso de laços aninhados for para percorrer matrizes
+- Uso do laço foreach em matrizes multidimensionais
+
+## Funções Úteis para Matrizes
+- Funções como array_merge(), array_keys(), array_values()
+- Conversão entre vetores e matrizes
