@@ -69,3 +69,13 @@
 ## Funções Úteis para Matrizes
 - Funções como array_merge(), array_keys(), array_values()
 - Conversão entre vetores e matrizes
+
+# Módulo 6: Funções no PHP
+
+## Definição e Utilidade das Funções
+- O que são funções
+- Importância das funções na organização do código
+
+## Declaração de Funções
+- Como declarar funções em PHP
+- Sintaxe básica de uma função
