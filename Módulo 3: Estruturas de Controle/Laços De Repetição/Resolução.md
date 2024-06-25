@@ -1,4 +1,4 @@
-### Exercícios de Laço de Repetição
+### Resolução dos exercícios de laço de repetição
 
 ## Laço de Repetição for
 
