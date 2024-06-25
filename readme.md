@@ -71,7 +71,6 @@
 - Conversão entre vetores e matrizes
 
 # Módulo 6: Funções no PHP
-
 ## Definição e Utilidade das Funções
 - O que são funções
 - Importância das funções na organização do código
@@ -79,3 +78,16 @@
 ## Declaração de Funções
 - Como declarar funções em PHP
 - Sintaxe básica de uma função
+
+## Argumentos e Retorno de Funções
+- Passagem de argumentos
+- Retorno de valores
+- Funções com valores padrão para argumentos
+
+## Funções Anônimas e Closures
+- Declaração de funções anônimas
+- Uso de closures em PHP
+
+## Funções Recursivas
+- Definição e exemplos de funções recursivas
+- Cuidados ao usar recursão
