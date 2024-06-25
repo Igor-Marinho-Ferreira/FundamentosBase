@@ -15,7 +15,7 @@ Imagine que você deseja armazenar os nomes de quatro pessoas em uma lista para 
 
 ### Resolução do exemplo
 ```php
-$nomes = array("João", "Maria", "José", "Ana");
+$nomes = ["João", "Maria", "José", "Ana"];
 
 for ($i = 0; $i < count($nomes); $i++) {
     echo "Nome: " . $nomes[$i] . "<br>";
