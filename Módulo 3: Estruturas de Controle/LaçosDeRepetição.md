@@ -57,3 +57,52 @@ foreach ($frutas as $fruta) {
 ### Quando Usar:
 - Para percorrer todos os elementos de um array de forma simples e direta.
 - Quando você deseja acessar diretamente os valores dos elementos do array.
+
+
+## Laço de repetição WHILE
+
+### Explicação
+O laço while repete um bloco de código enquanto uma condição for verdadeira. Ele é útil quando você não sabe exatamente quantas vezes precisa repetir o bloco de código, mas sabe a condição que deve ser satisfeita.
+
+### Estrutura do laço
+```php
+while (condição) {
+    // Código a ser repetido
+}
+```
+### Exemplo
+Imagine que você está enchendo um balde com água e deseja parar quando o balde estiver cheio. Suponha que o balde tem capacidade para 10 litros.
+
+### Resolução do exemplo
+```php
+$litros = 0;
+
+while ($litros < 10) {
+    $litros++;
+    echo "Enchi o balde com mais 1 litro de água. Agora tem $litros litros<br>";
+}
+```
+### Uso:
+- O laço while é usado quando você não sabe de antemão quantas vezes o bloco de código deve ser repetido.
+- Continua a executar o bloco de código enquanto a condição for verdadeira.
+
+### Quando Usar:
+- Para repetir um bloco de código até que uma condição específica seja satisfeita.
+- Quando o número de iterações não é conhecido antecipadamente.
+
+## Resumo das Diferenças
+
+### Controle e Estrutura:
+- for oferece controle total sobre a inicialização, condição de término e incremento em uma única linha.
+- foreach simplifica a iteração sobre arrays, focando nos elementos do array sem a necessidade de um índice.
+- while é flexível e adequado para situações onde a repetição depende de uma condição dinâmica.
+
+### Simplicidade e Legibilidade:
+- for pode ser mais verboso, mas é claro quando você precisa de um contador.
+- foreach é mais legível e conciso para operações com arrays.
+- while é claro e direto para condições de repetição indefinidas.
+
+### Uso Comum:
+- Use for quando souber o número exato de iterações.
+- Use foreach quando trabalhar com arrays e quiser simplicidade.
+- Use while quando a repetição depender de uma condição que pode mudar dinamicamente.
