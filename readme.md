@@ -91,3 +91,49 @@
 ## Funções Recursivas
 - Definição e exemplos de funções recursivas
 - Cuidados ao usar recursão
+
+# Módulo 7: Fundamentos de HTML
+
+## Introdução ao HTML
+- Estrutura básica de um documento HTML
+- Elementos e tags HTML
+- Atributos HTML
+
+## Formatação de Texto e Links
+- Parágrafos, cabeçalhos e listas
+- Links e âncoras
+- Elementos de texto (negrito, itálico, etc.)
+
+## Imagens e Multimídia
+- Inserção de imagens
+- Elementos de áudio e vídeo
+- Atributos de mídia (src, alt, etc.)
+
+# Módulo 8: Estruturação de Páginas Web
+
+## Listas e Tabelas
+- Listas ordenadas e não ordenadas
+- Criação e formatação de tabelas
+- Títulos de tabelas e células
+
+## Formulários
+- Estrutura básica de um formulário
+- Tipos de campos (texto, e-mail, senha, etc.)
+- Botões de envio e reset
+
+## Navegação e Links Internos
+- Criação de menus de navegação
+- Links internos e âncoras
+- Navegação entre páginas
+
+# Módulo 9: Estilização e Layout
+
+## Introdução ao CSS
+- Sintaxe básica do CSS
+- Aplicação de estilos inline, interno e externo
+- Seletores e propriedades básicas
+
+## Box Model e Layout
+- Conceito de Box Model (margem, borda, padding, conteúdo)
+- Layout com divs e spans
+- Posicionamento e alinhamento de elementos
