@@ -54,6 +54,3 @@ echo saudacao("Maria"); // Saída: Olá, Maria!
 - Utilize a passagem de argumentos sempre que precisar fornecer dados específicos para uma função executar sua tarefa.
 - Utilize o retorno de valores quando precisar obter um resultado de uma função para uso posterior.
 - Utilize valores padrão para argumentos para tornar funções mais robustas e evitar erros devido à falta de parâmetros.
-
-### Resumo
-Compreender a passagem de argumentos, o retorno de valores e a definição de valores padrão para argumentos é crucial para escrever funções eficientes e flexíveis em PHP. Esses conceitos permitem criar funções reutilizáveis, robustas e adaptáveis a diferentes situações, contribuindo para um código mais organizado e fácil de manter.
