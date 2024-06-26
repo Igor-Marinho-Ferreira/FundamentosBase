@@ -68,6 +68,3 @@ echo $soma(5, 5); // Saída: 20
 ### Quando Usar:
 - Para criar funções dinâmicas que dependem de variáveis externas.
 - Em cenários de programação assíncrona ou eventos onde a função precisa acessar variáveis do escopo externo.
-
-### Resumo
-Funções anônimas e closures são ferramentas poderosas no PHP que permitem uma maior flexibilidade e dinamismo no código. Elas são essenciais para a programação funcional e para situações onde funções temporárias ou dependentes de escopo são necessárias.
