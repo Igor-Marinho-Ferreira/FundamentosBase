@@ -74,6 +74,3 @@ if (isPar(4)) {
 ### Quando Usar:
 - Sempre que identificar uma operação repetitiva no seu código.
 - Para encapsular e abstrair complexidade, tornando o código principal mais limpo e focado na lógica de negócio.
-
-### Resumo
-Funções são fundamentais para a organização e estruturação eficiente do código em PHP. Elas promovem a reutilização, modularidade, e manutenção fácil, contribuindo significativamente para o desenvolvimento de aplicativos robustos e escaláveis.
