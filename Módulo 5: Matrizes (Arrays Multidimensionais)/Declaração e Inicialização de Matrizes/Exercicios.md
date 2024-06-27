@@ -12,5 +12,5 @@ Crie uma matriz 3x3 com valores inteiros pré-definidos. Imprima todos os elemen
 ### Exercício 4: Matriz de Strings  
 Crie uma matriz 2x2 contendo strings de sua escolha. Imprima todos os elementos da matriz, indicando a posição de cada um.
 
-### Exercício 5: Transposta de uma Matriz 3x3**  
+### Exercício 5: Transposta de uma Matriz 3x3  
 Crie uma matriz 3x3 com valores inteiros. Em seguida, crie uma nova matriz que seja a transposta da matriz original e imprima ambos as matrizes.
