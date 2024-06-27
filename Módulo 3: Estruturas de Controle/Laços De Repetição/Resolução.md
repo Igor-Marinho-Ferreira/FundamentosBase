@@ -115,27 +115,30 @@ while ($i <= 10) {
 ```
 4. Escreva um while que calcule e exiba a média de uma lista de números fornecidos pelo usuário.
 ```php
-$numeros = [];
-$continuar = "s";
-while ($continuar == "s") {
-    $numero = (float)readline("Digite um número: ");
-    $numeros[] = $numero;
-    $continuar = readline("Deseja continuar? (s/n): ");
+$numeros = [10, 20, 30, 40, 50]; // Lista de números pré-definidos
+$soma = 0;
+$contador = count($numeros);
+$indice = 0;
+
+while ($indice < $contador) {
+    $soma += $numeros[$indice];
+    $indice++;
 }
 
-$soma = array_sum($numeros);
-$media = $soma / count($numeros);
+$media = $soma / $contador;
 echo "Média dos valores: " . $media . "\n";
 ```
+
 5. Implemente um while que leia números do usuário até que um número negativo seja digitado, calcule e exiba a soma dos números positivos digitados.
 ```php
+$numeros = [5, 10, 15, -5, 20, 25]; // Lista de números pré-definidos
 $soma = 0;
-while (true) {
-    $numero = (float)readline("Digite um número (negativo para parar): ");
-    if ($numero < 0) {
-        break;
-    }
-    $soma += $numero;
+$indice = 0;
+
+while ($indice < count($numeros) && $numeros[$indice] >= 0) {
+    $soma += $numeros[$indice];
+    $indice++;
 }
+
 echo "Soma dos números positivos: " . $soma . "\n";
 ```
