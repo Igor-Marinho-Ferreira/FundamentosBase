@@ -47,5 +47,5 @@ Matrizes permitem acessar rapidamente dados que estão logicamente relacionados 
 ### Exemplos Comuns
 - Planilhas: Representação de planilhas eletrônicas onde cada célula contém um valor específico.
 - Imagens: Armazenamento de dados de pixel para processamento de imagens.
-- Grades de Notas:** Manter registros de notas de alunos em diferentes disciplinas.
+- Grades de Notas: Manter registros de notas de alunos em diferentes disciplinas.
 
