@@ -1,5 +1,5 @@
 
-#Exercícios Vetores
+# Exercícios sobre Vetores em PHP
 
 ## Exercício 1: Encontrando o Maior e o Menor Valor
 Crie um vetor com 10 números inteiros aleatórios. Utilize um laço `for` para percorrer o vetor e encontrar o maior e o menor valor. Imprima esses valores ao final.
