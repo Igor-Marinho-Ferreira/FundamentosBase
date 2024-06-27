@@ -1,5 +1,4 @@
-
-
+# Exercícios sobre Vetores em PHP
 
 1. **Criação de um Vetor:**
    Crie um vetor chamado `$cores` que armazene as seguintes cores: "Vermelho", "Verde", "Azul", "Amarelo". Em seguida, exiba todas as cores na tela.
