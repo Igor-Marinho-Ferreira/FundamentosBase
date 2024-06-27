@@ -21,5 +21,5 @@
 1. Escreva um while que conte de 1 a 5 e exiba cada número.
 2. Implemente um while que imprima os números pares de 1 a 10.
 3. Utilize um while para exibir a tabuada do 5 (de 1 a 10).
-4. Escreva um while que calcule e exiba a média de uma lista de números fornecidos pelo usuário.
-5. Implemente um while que leia números do usuário até que um número negativo seja digitado, calcule e exiba a soma dos números positivos digitados.
+4. Calcule e exiba a média de uma lista de números fornecido
+5. Leia números de uma lista até que um número negativo seja encontrado, calcule e exiba a soma dos números positivos.
