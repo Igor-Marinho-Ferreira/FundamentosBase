@@ -51,7 +51,7 @@ foreach ($frutas as $categoria) {
 
 Escreva um script PHP que percorra uma matriz 3x3 de números e calcule a soma de todos os elementos.
 
-### nstruções:
+### Instruções:
 1. Crie uma matriz: `$numeros = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]`.
 2. Utilize laços aninhados `for` para percorrer a matriz.
 3. Calcule e exiba a soma de todos os elementos.
